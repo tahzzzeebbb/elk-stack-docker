@@ -1,0 +1,17 @@
+2026-01-01 INFO Application Started
+
+2026-01-01 INFO User Login
+
+2026-01-01 WARNING Invalid Password
+
+2026-01-01 ERROR Database Connection Failed
+.gitignore
+.env
+
+*.log
+
+.vscode/
+📄 .dockerignore
+.git
+
+.gitignore
